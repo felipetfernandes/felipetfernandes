@@ -13,6 +13,7 @@ Hello, my name is Felipe Fernandes, I'm Brazilian and currently a web developmen
 
 <p align='center'>
 <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+<img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript">
 <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
 <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
 <img height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
