@@ -1,7 +1,6 @@
-My name is Felipe Fernandes, I'm a full stack web development student at [trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAqddWlM-FdbSgbJ-Vy5JAxCD7GWWwYfTTfMSDCywH0OMJ3NeaDlOBoC3asQAvD_BwE).
+Hello, my name is Felipe Fernandes, I'm Brazilian and currently a web development student at Trybe [trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAqddWlM-FdbSgbJ-Vy5JAxCD7GWWwYfTTfMSDCywH0OMJ3NeaDlOBoC3asQAvD_BwE).
 
-<img alt="Home" height="20" width="22" 
-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png"> I'm from Brazil.
+
 <p align = "center">
 <a href="mailto:felipe.tavares.fernandes@gmail.com"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--C75QF96b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
 </a>
