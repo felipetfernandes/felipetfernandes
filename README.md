@@ -8,7 +8,7 @@ Hello, my name is Felipe Fernandes, I'm Brazilian and currently a web developmen
 <a href="https://discordapp.com/users/247222930923061248"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord">  </a>
 </p>
 
-<p align='center'>  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api?username=felipetfernandes&show_icons=true&theme=radical&border_radius=20&border_color=fff" title=""></a>  <!-- <a href="#"><img width="344x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetfernandes&layout=compact&theme=radical&count_private=true&service=github&border_radius=20&border_color=fff" alt=""></a> --> </p>
+<p align='center'>  <a href="#"><img width="410px" src="https://github-readme-stats.vercel.app/api?username=felipetfernandes&show_icons=true&theme=radical&border_radius=20&border_color=fff" title=""></a><a href="#"><img width="410x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetfernandes&layout=compact&theme=radical&count_private=true&service=github&border_radius=20&border_color=fff" alt=""></a> </p>
 
 
 <p align='center'>
